@@ -2,8 +2,6 @@
 ## Description
 Project aims to create parallax website.
 
-## Problem Statement
-
 
 ## Project Skeleton 
 
