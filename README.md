@@ -19,7 +19,7 @@ Project aims to create parallax website.
 
 ### Screenshot
 
-![Screenshot] (./img/Paralaks-Web-Sitesi.gif)
+![Screenshot] (./img/paralaks.gif)
 
 ### Links
 
