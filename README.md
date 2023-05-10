@@ -23,7 +23,7 @@ Project aims to create parallax website.
 ### Screenshot
 
 <p align="center">
-<a href="https://gulsen06.github.io/Paralaks-Web-Sitesiy/"><img src="Paralaks-Web-Sitesi.gif" alt="screenshot" width="100%"></a>
+<a href="https://gulsen06.github.io/Paralaks-Web-Sitesi/"><img src="Paralaks-Web-Sitesi.gif" alt="screenshot" width="100%"></a>
 </p>
 
 ### Links
