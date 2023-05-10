@@ -16,8 +16,6 @@ Project aims to create parallax website.
         |----images
 ```
 
-
-
 ### Screenshot
 
 <p align="center">
