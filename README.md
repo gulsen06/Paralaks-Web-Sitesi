@@ -1,25 +1,26 @@
 # Paralaks-Web-Sitesi
+
 ## Description
+
 Project aims to create parallax website.
 
-
-## Project Skeleton 
+## Project Skeleton
 
 ```
 003-parallax-website (folder)
 |
-|----readme.md         # Given to the students (Definition of the project)          
-|----images            # Given to the students (Images of the project)   
+|----readme.md         # Given to the students (Definition of the project)
+|----images            # Given to the students (Images of the project)
 |----solution
-        |----index.html  
-        |----style.css   
+        |----index.html
+        |----style.css
         |----images
 ```
 
 ### Screenshot
 
 <p align="center">
-<a href="https://gulsen06.github.io/Paralaks-Web-Sitesi/"><img src="Paralaks-Web-Sitesi.gif" alt="screenshot" width="100%"></a>
+<a href="https://gulsen06.github.io/Paralaks-Web-Sitesi/"><img src="paralaks.gif" alt="screenshot" width="100%"></a>
 </p>
 
 ### Links
